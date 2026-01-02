@@ -1,3 +1,0 @@
-Due to high volume. I'm directly giving the dataset link.
-
-https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge/data
