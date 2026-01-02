@@ -110,3 +110,12 @@ These metrics provide a more realistic understanding of model performance across
 **🎯 Key Takeaway :**
 
 This project demonstrates a complete and correct classical NLP machine learning pipeline for multi-label toxic comment classification, focusing on clarity, correctness, and industry-standard evaluation practices rather than unnecessary model complexity.
+
+---------
+
+**⚙️ Installation :**
+
+Clone the repository and install the required dependencies using:
+
+```bash
+pip install -r requirements.txt
